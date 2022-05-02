@@ -1,5 +1,5 @@
 
-# Data Structures and Algorithms: Deep Dive Using Java
+# Data Structures and Algorithms Using Java
 
 Data Structures / ADTs
 - Arrays
