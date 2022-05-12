@@ -1,6 +1,6 @@
-package com.atr.sort_algorithms;
+package com.atr.sort_algorithms.bubble_sort;
 
-public class BubbleSort {
+public class BubbleSort02 {
 
     /**
      * Bubble Sort
@@ -22,7 +22,7 @@ public class BubbleSort {
         }
 
         for (int i = 0; i < intArray.length; i++) {
-            System.out.println(intArray[i]);
+            System.out.print(intArray[i] + " ");
         }
 
     }
