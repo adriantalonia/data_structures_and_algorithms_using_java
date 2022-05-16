@@ -1,4 +1,4 @@
-package com.atr.sort_algorithms;
+package com.atr.sort_algorithms.selection_sort;
 
 public class SelectionSort {
 
